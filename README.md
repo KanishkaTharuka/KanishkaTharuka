@@ -2,9 +2,9 @@
 
 <br>
 
-- 👀 I’m interested in **web developing**
+- 👀 I’m interested in **Developing & devops**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently working **Ministry of Transport**
 
 - 👨‍💻 I’m an Undergraduate at [SLIIT](SLIIT)
 
