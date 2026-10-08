@@ -2,9 +2,9 @@
 
 <br>
 
-- 👀 I’m interested in **Developing & devops**
+- 👀 I’m interested in **Full-Stack Development & DevOps**
 
-- 🌱 I’m currently working **Ministry of Transport**
+- 💼 Former **Software Engineering Intern** at **Ministry of Transport** (Completed 6-month internship)
 
 - 👨‍💻 I’m an Undergraduate at [SLIIT](SLIIT)
 
